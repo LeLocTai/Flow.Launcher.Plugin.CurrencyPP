@@ -14,6 +14,8 @@ Compared to the existing [Currency Converter](https://github.com/deefrawley/Flow
 
 Below is an excerpt the original readme
 
+To ensure that the settings that you change take effect, you must update the plugin settings, and then restart the Flow Launcher program. If you attempt to change the plugin settings, and then test them without restarting Flow Launcher first, they will revert to default.
+
 ---
 
 ## Usage
